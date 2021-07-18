@@ -13,6 +13,10 @@ Initial Security()
 {
  //Sample Codemerge-conflict
 }
+feaature2()
+{
+  //Sample Code for Feature 2
+}
 
 
 
